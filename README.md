@@ -20,11 +20,11 @@ Each day's task is maintained in a separate folder containing Python source code
 24B11CS432_DriveReady_OPC_2026/
 │
 ├── Day-1/
-│   ├── agenticAI_Day1.py
+│   ├── task.py
 │   └── README.md
 │
 ├── Day-2/
-│   ├── day2.py
+│   ├── task.py
 │   └── README.md
 │
 └── README.md
@@ -98,14 +98,14 @@ cd 24B11CS432_DriveReady_OPC_2026/Day-1
 Install the required dependencies mentioned in that day's README.md and run:
 
 ```bash
-python agenticAI_Day1.py
+python task.py
 ```
 
 For Day 2:
 
 ```bash
 cd ../Day-2
-python day2.py
+python task.py
 ```
 
 **Note:** Some tasks require API keys. Configure them using environment variables and never upload API keys or secrets to GitHub.
